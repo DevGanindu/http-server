@@ -1,4 +1,4 @@
-# project02 (httpServer)
+# httpServer
 
 Build:
 
